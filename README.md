@@ -17,7 +17,7 @@ controls select the ticker, price window, moving averages and refresh behavior.
 <img width="1813" height="996" alt="image" src="https://github.com/user-attachments/assets/5700b38a-96a8-4fdd-b7f7-9239f73d26a1" />
 
 
-**Streamlit deployment:** not deployed; add the public URL after deployment.
+**Streamlit deployment:** deployed
 https://stock-scope-dashboard.streamlit.app
 
 ## Problem Statement
