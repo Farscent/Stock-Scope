@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.aws/
+*.pem
+*.key
+build/
+dist/
+output/
+.playwright-cli/
+.DS_Store
+Thumbs.db
+# Local course source is retained for the owner, excluded from redistribution.
+/Revenue Data and Building a Dashboard_Farhan.ipynb
