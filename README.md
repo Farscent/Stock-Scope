@@ -10,9 +10,15 @@ share the same tested data pipeline.
 The dashboard provides five views: **Market overview**, **Company revenue**,
 **Compare TSLA & GME**, **Data explorer**, and **About & methodology**. Sidebar
 controls select the ticker, price window, moving averages and refresh behavior.
+<img width="1808" height="994" alt="image" src="https://github.com/user-attachments/assets/36ae7c2e-8f67-401d-a6a9-ea8638cc84cd" />
+<img width="1815" height="997" alt="image" src="https://github.com/user-attachments/assets/e5464f4f-7535-4f3a-9ab5-dae75a3b180c" />
+<img width="1818" height="994" alt="image" src="https://github.com/user-attachments/assets/5d0c7bcf-458e-4f8c-849b-0b27645e761d" />
+<img width="1320" height="962" alt="image" src="https://github.com/user-attachments/assets/3cb8b519-8cd4-40f5-b7ad-6ee802334414" />
+<img width="1813" height="996" alt="image" src="https://github.com/user-attachments/assets/5700b38a-96a8-4fdd-b7f7-9239f73d26a1" />
+
 
 **Streamlit deployment:** not deployed; add the public URL after deployment.
-No screenshot is included: browser capture was unavailable during local validation.
+https://stock-scope-dashboard.streamlit.app
 
 ## Problem Statement
 
